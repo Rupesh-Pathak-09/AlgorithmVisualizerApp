@@ -1,0 +1,33 @@
+.type{
+    width: 100%;
+    align-content: center;
+    background-color: #282c34;
+    text-align: center;
+    font-family: "Roboto Slab ExtraLight";
+}
+
+.Cards{
+    background-color: #576574;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    position: center;
+    child-align: middle;
+}
+.footer-copyright{
+    color:white;
+    background-color: #222f3e;
+    padding: 1.15em;
+}
+.greet{
+    text-align: center;
+    background-color: #222f3e;
+    color: white;
+    padding: 10px;
+}
+.greet:hover{
+    color: aqua;
+}
+.name:hover{
+    color: aqua;
+}
